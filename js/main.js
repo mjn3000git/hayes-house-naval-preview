@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var status = document.getElementById("form-status");
-      status.textContent = "Online requests are not open just yet, so nothing was sent. Please call us at 518-832-9174.";
+      status.textContent = "Online requests are not open just yet, so nothing was sent. Please call us at 518-868-6689.";
       status.focus();
     });
   }
